@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "Require",
+        "scope": null,
+        "escapedName": "Require",
+        "name": "Require",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/qianzhixiang/union/production-experience/demo/myApp"
+    ]
+  ],
+  "_from": "Require@latest",
+  "_id": "Require@1.1.2",
+  "_inCache": true,
+  "_location": "/Require",
+  "_nodeVersion": "6.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/Require-1.1.2.tgz_1490326077850_0.7309696990996599"
+  },
+  "_npmUser": {
+    "name": "zxqian1991",
+    "email": "zxqian1991@163.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "Require",
+    "scope": null,
+    "escapedName": "Require",
+    "name": "Require",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/Require/-/Require-1.1.2.tgz",
+  "_shasum": "8f8e230e43574346689e33e44a2ce2de60f60877",
+  "_shrinkwrap": null,
+  "_spec": "Require",
+  "_where": "/Users/qianzhixiang/union/production-experience/demo/myApp",
+  "author": {
+    "name": "qianzhixiang"
+  },
+  "bugs": {
+    "url": "https://github.com/zxqian1991/require/issues"
+  },
+  "dependencies": {},
+  "description": "a requrie with cache in different folders",
+  "devDependencies": {
+    "up-util": "^1.0.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "8f8e230e43574346689e33e44a2ce2de60f60877",
+    "tarball": "https://registry.npmjs.org/Require/-/Require-1.1.2.tgz"
+  },
+  "homepage": "https://github.com/zxqian1991/require#readme",
+  "keywords": [
+    "require",
+    "different",
+    "fold"
+  ],
+  "license": "ISC",
+  "main": "main.js",
+  "maintainers": [
+    {
+      "name": "zxqian1991",
+      "email": "zxqian1991@163.com"
+    }
+  ],
+  "name": "Require",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxqian1991/require.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.1.2"
+}
